@@ -1,5 +1,5 @@
 # Unity Productivity Tools
-Expands the Unity Editor with simple productivity tools.
+Extends the Unity Editor with simple productivity tools like an easy way to serialize SceneAssets in your component, grouping GameObjects in the scene and more.
 
 - [Scene View / Hierarchy](#scene-view--hierarchy)
   - [Grouping](#grouping)
@@ -91,3 +91,6 @@ Displays the property as a dropdown with all the defined Tags.
 [Tag]
 public string teamTag;
 ```
+
+# License
+See [LICENSE.md](LICENSE.md)
