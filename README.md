@@ -11,7 +11,8 @@ Extends the Unity Editor with simple productivity tools like an easy way to seri
   - [Scene](#scene)
   - [Tag](#tag)
 
-
+- [Install](#install)
+- [License](#license)
 
 
 ## Scene View / Hierarchy
@@ -91,6 +92,13 @@ Displays the property as a dropdown with all the defined Tags.
 [Tag]
 public string teamTag;
 ```
+
+
+# Install
+* In Unity open the Package Manager (`Window > Package Manager`).
+* In the Package Manager click on the Plus-Icon in the top-left and select `Add package from git URL...`
+* Enter the URL of this Repository (`https://github.com/martinhodler/unity-productivity-tools.git`) and press <kbd>Enter</kbd>
+
 
 # License
 See [LICENSE.md](LICENSE.md)
