@@ -1,0 +1,10 @@
+{
+    "name": "io.tinu.unity.productivity.Editor",
+    "references": [
+        "io.tinu.unity.productivity"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

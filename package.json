@@ -1,0 +1,20 @@
+{
+  "name": "io.tinu.unity-productivity-tools",
+  "version": "1.0.0",
+  "displayName": "Unity Productivity Tools",
+  "description": "Expands the Unity Editor with simple productivity tools",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "dependencies": {
+ },
+ "keywords": [
+    "editor",
+    "productivity",
+    "tools"
+  ],
+  "author": {
+    "name": "Martin Hodler (tinu.io)",
+    "email": "contact@tinu.io",
+    "url": "https://tinu.io"
+  }
+}
